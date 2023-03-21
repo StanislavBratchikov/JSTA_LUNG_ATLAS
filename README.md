@@ -8,7 +8,7 @@ We plan to implement JSTA (Joint cell segmentation and cell type annotation) [al
 
 ## Useful links 
 - [Github repo](https://github.com/ibd-bcn/CosMx-SMI) from paper below 
-- Example of CosMx data analysis in [paper](https://www.biorxiv.org/content/10.1101/2022.11.28.518139v1.full.pdf), [methods doc](~/Data/media-3.doc)
+- Example of CosMx data analysis in [paper](https://www.biorxiv.org/content/10.1101/2022.11.28.518139v1.full.pdf), [methods doc](./Data/media-3.docx)
 - Project will largely rely on CosMx type of data. More about this can be read [here](https://www.biorxiv.org/content/10.1101/2021.11.03.467020v3) 
 - Genes called from human atlas project were collected using this [technique](https://www.biorxiv.org/content/10.1101/2022.08.16.504115v1) 
 - [Celltyping algorithm](https://www.biorxiv.org/content/10.1101/2022.10.19.512902v1)
